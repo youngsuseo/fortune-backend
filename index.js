@@ -1,5 +1,3 @@
-const apiKey = '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';
-
 const { Configuration, OpenAIApi } = require("openai");
 const express = require('express')
 const app = express()
